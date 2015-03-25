@@ -1,0 +1,9 @@
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\bin\Debug\ProjectLINQ.exe.config
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\bin\Debug\ProjectLINQ.exe
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\bin\Debug\ProjectLINQ.pdb
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\obj\Debug\ProjectLINQ.exe
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\obj\Debug\ProjectLINQ.pdb
+D:\DualFolder\CODER_CAMP\CSharp\ProjectLINQ\ProjectLINQ\obj\Debug\ProjectLINQ.csprojResolveAssemblyReference.cache
+D:\DualFolder\CODER_CAMP\GITHUB\ProjectLINQ\ProjectLINQ\bin\Debug\ProjectLINQ.exe.config
+D:\DualFolder\CODER_CAMP\GITHUB\ProjectLINQ\ProjectLINQ\obj\Debug\ProjectLINQ.exe
+D:\DualFolder\CODER_CAMP\GITHUB\ProjectLINQ\ProjectLINQ\obj\Debug\ProjectLINQ.pdb
